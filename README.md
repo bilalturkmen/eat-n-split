@@ -1,6 +1,6 @@
 <h1>Eat'n Split</h1>
 
-https://travel-listx.netlify.app/
+https://eatnsplitx.netlify.app/
 
 <div>
   A project from a React JS training: This app helps you keep track of who paid what. 
